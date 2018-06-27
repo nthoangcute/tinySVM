@@ -22,7 +22,7 @@ The update version can run with maximum 10 CPUs and return the best result after
 
 * Best test accuracy: 98.47% after 112 steps
 
-<p align="center"><img src="https://lh3.googleusercontent.com/riywUv3Z_yONW9q3gwCOAh7hs9rqXY55_AI7YyxJ7cyI46G3jx5nPks0tZTOtRT0wYe6fwqQe8s90KJJVZP-HFlPR2XeTw6nHZSbgUZraXklPYzw7R00EZNp2cKJpfKxOwk_T79sWA=w2400" width="600"></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/qgHD21CZatd_o_qa2hNELTEkcKiZtdBffl8E6gQOGBA1QixOGRMt3SN2VDOEWve60LLFCgG5l_DZp1stPhvGeGDCRMAPM7sGaEcKsK3MNTk_Y1DOkK3KxKIfv3OTwmcnxAv4f1vIvg=w2400" width="600"></p>
 
 * Confusion matrix:
   
