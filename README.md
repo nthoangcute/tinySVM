@@ -11,8 +11,8 @@ Change your path in **trainFile** and **testFile**.
 More information about MNIST or EMNIST datasets is in [here](https://www.nist.gov/itl/iad/image-group/emnist-dataset). 
 After that, run this code with your Java IDE or by linux command line:
 ```
-  javac tinyCNN.java
-  java tinyCNN
+  javac tinySVM.java
+  java tinySVM
 ```
 If you have a java memory heap error, reduce *batchSize* to smaller.
 ## PERFORMANCE
